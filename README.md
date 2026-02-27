@@ -38,5 +38,6 @@ Jupyter Notebook
 📂 Project Structure:
 
 Stock-Market-Analysis/ 
+
 ├── Numpy Stock Market analysis.ipynb
 ├── README.md
